@@ -1,4 +1,13 @@
-### Hi there 👋, I'm Manu!
+### Hi there, my name is Manu!
+
+## Skills:
+[![Apple](https://img.shields.io/badge/iOS-blue?style=for-the-badge&logo=apple&logoColor=white&color=1DA1F2)]()
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)]()
+[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)]()
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)]()
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
+
+## Find me at:
 
 <a href="https://twitter.com/MRBenzex">
 <img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white&color=1DA1F2" />
