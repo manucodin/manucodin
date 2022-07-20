@@ -1,10 +1,15 @@
 ### Hi there, my name is Manu!
 
 ## Skills:
-[![Apple](https://img.shields.io/badge/iOS-blue?style=for-the-badge&logo=apple&logoColor=white&color=1DA1F2)]()
+[![Apple](https://img.shields.io/badge/iOS-00a2ff?style=for-the-badge&logo=apple&logoColor=white&color=1DA1F2)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)]()
-[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)]()
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)]()
+[![Xcode](https://img.shields.io/badge/Xcode-00a2ff?style=for-the-badge&logo=xcode&logoColor=white)]()
+</br>
+[![Android](https://img.shields.io/badge/Android-A4C639?style=for-the-badge&logo=android&logoColor=white)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-A4C639?style=for-the-badge&logo=android-studio&logoColor=white)]()
+</br>
+[![Firebase](https://img.shields.io/badge/Firebase-FA7343?style=for-the-badge&logo=firebase&logoColor=white)]()
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 
 ## Find me at:
