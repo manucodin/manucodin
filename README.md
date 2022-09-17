@@ -24,7 +24,7 @@
 
 ## About me:
 
-- 😄 I'm Manu, iOS developer since six years
+- 😄 I'm Manu, iOS developer since seven years
 - 🌱 I’m currently learning TypeScript and NodeJS (why be just a mobile developer if you can be backend developer also)
 - 👯 I’m looking to collaborate on Swift projects
 - 👾 My hobbies are playing videogames, comics, terror/sci-fi films...
