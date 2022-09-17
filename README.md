@@ -1,4 +1,4 @@
-### Hi there, my name is Manu!
+### Hi there! My name is Manu 👋🏻
 
 ## Skills:
 [![Apple](https://img.shields.io/badge/iOS-00a2ff?style=for-the-badge&logo=apple&logoColor=white&color=1DA1F2)]()
