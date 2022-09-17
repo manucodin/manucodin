@@ -14,7 +14,7 @@
 
 ## Find me at:
 
-<a href="https://twitter.com/MRBenzex">
+<a href="https://twitter.com/manu_coding">
 <img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white&color=1DA1F2" />
 </a>
 <a href="https://www.linkedin.com/in/manuel-rodr%C3%ADguez-sebasti%C3%A1n-aab89813a/">
