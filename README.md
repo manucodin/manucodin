@@ -9,11 +9,17 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-A4C639?style=for-the-badge&logo=android-studio&logoColor=white)]()
 </br>
+[![JavaScript](https://img.shields.io/badge/javascript-00a2ff?style=for-the-badge&logo=javascript&logoColor=white&color=F18805)]()
+[![TypeScript](https://img.shields.io/badge/typescript-00a2ff?style=for-the-badge&logo=typescript&logoColor=white&color=2e72be)]()
+[![NodeJS](https://img.shields.io/badge/nodejs-00a2ff?style=for-the-badge&logo=node.js&logoColor=white&color=74c62b)]()
+</br>
 [![Firebase](https://img.shields.io/badge/Firebase-FA7343?style=for-the-badge&logo=firebase&logoColor=white)]()
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 
 ## Find me at:
-
+<a href="https://www.twitch.tv/manucoding">
+<img align="left" alt="akd's Twitch" width="100px" src="https://img.shields.io/badge/twitch-00a2ff?style=for-the-badge&logo=twitch&logoColor=white&color=8b42f4" />
+</a>
 <a href="https://twitter.com/manu_coding">
 <img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white&color=1DA1F2" />
 </a>
