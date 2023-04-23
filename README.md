@@ -17,9 +17,6 @@
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 
 ## Find me at:
-<a href="https://www.twitch.tv/manucoding">
-<img align="left" alt="akd's Twitch" width="100px" src="https://img.shields.io/badge/twitch-00a2ff?style=for-the-badge&logo=twitch&logoColor=white&color=8b42f4" />
-</a>
 <a href="https://twitter.com/manu_coding">
 <img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white&color=1DA1F2" />
 </a>
