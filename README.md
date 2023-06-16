@@ -31,6 +31,3 @@
 - 🌱 I’m currently learning TypeScript and NodeJS (why be just a mobile developer if you can be backend developer too)
 - 👯 I’m looking to collaborate on Swift projects
 - 👾 My hobbies are playing videogames, comics, terror/sci-fi films...
-
-### My GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manucodin&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
